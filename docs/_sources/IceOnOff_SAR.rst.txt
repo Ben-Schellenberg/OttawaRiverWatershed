@@ -1,7 +1,0 @@
-IceOnOff\_SAR module
-===================
-
-.. automodule:: IceOnOff_SAR
-   :members:
-   :undoc-members:
-   :show-inheritance:
